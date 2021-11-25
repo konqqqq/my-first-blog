@@ -1,0 +1,2 @@
+class CheckSessionMiddleware(class):
+    pass
